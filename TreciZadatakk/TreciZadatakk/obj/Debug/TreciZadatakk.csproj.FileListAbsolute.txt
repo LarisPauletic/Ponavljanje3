@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\TreciZadatakk\TreciZadatakk\bin\Debug\TreciZadatakk.exe.config
+C:\Users\Laris\source\repos\TreciZadatakk\TreciZadatakk\bin\Debug\TreciZadatakk.exe
+C:\Users\Laris\source\repos\TreciZadatakk\TreciZadatakk\bin\Debug\TreciZadatakk.pdb
+C:\Users\Laris\source\repos\TreciZadatakk\TreciZadatakk\obj\Debug\TreciZadatakk.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\TreciZadatakk\TreciZadatakk\obj\Debug\TreciZadatakk.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\TreciZadatakk\TreciZadatakk\obj\Debug\TreciZadatakk.exe
+C:\Users\Laris\source\repos\TreciZadatakk\TreciZadatakk\obj\Debug\TreciZadatakk.pdb
